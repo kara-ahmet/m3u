@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-ID="rts1.rs" tvg-name="[SRB] [8K] RTS 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/EXYU%20SERBIA/RTS1.png" group-title="[EXYU] SRBIJA",[SRB] [8K] RTS 1 HD
 http://line.4k-ott.com:80/live/D02F9F/D941C4/104510.ts
 #EXTINF:-1 tvg-ID="rts2.rs" tvg-name="[SRB] [8K] RTS 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/EXYU%20SERBIA/RTS2.png" group-title="[EXYU] SRBIJA",[SRB] [8K] RTS 2 HD
